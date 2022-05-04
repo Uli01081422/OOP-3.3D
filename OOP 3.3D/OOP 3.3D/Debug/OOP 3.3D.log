@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\ООП lab\OOP 3.3D\OOP 3.3D\OOP 3.3D\Pair.h(22,29): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП lab\OOP 3.3D\OOP 3.3D\OOP 3.3D\Pair.h(23,29): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  OOP 3.3D.vcxproj -> C:\Users\Admin\Desktop\ООП lab\OOP 3.3D\OOP 3.3D\Debug\OOP 3.3D.exe
